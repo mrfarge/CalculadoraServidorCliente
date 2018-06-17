@@ -4,7 +4,7 @@ Created on Wed Jun 13 20:12:37 2018
 
 @author: Maria
 """
-#!/usr/bin/env python
+
 
 
 import requests
